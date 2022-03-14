@@ -6,7 +6,11 @@ After doing it the 'old fashon way' using just a Nano on a protoboard and a few 
 This unit support the following Atmel microcontrollers...
 
 ATmega328: For stand alone versions of Uno/Nano.
+
 ATtiny861: For a chip with 15 usable I/O lines.
+
 ATtiny84:  Just right for so many projects.
+
 ATtiny85:  For small projects using 16/64 Mhz clocking.
+
 
